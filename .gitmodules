@@ -1,0 +1,4 @@
+[submodule "headless"]
+	path = headless
+	url = https://github.com/planetarium/NineChronicles.Headless
+	branch = public-validator-test
